@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 10,
+				"line" : 11,
 				"parent" : 0
 			}
 		]
@@ -94,7 +94,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "BAEKJOON_11098.cpp",
+			"path" : "BAEKJOON_5635.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
