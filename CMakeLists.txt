@@ -3,4 +3,4 @@ project(Cpp_Algorithm)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Cpp_Algorithm BAEKJOON_2445.cpp)
+add_executable(Cpp_Algorithm BAEKJOON_1009.cpp)
