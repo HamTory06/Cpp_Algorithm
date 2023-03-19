@@ -46,8 +46,8 @@ cmake_ninja_workdir = /Users/hamtory/Desktop/Algorithm/Cpp_Algorithm/cmake-build
 
 build cmake_object_order_depends_target_Cpp_Algorithm: phony || CMakeFiles/Cpp_Algorithm.dir
 
-build CMakeFiles/Cpp_Algorithm.dir/BAEKJOON_1009.cpp.o: CXX_COMPILER__Cpp_Algorithm_Debug /Users/hamtory/Desktop/Algorithm/Cpp_Algorithm/BAEKJOON_1009.cpp || cmake_object_order_depends_target_Cpp_Algorithm
-  DEP_FILE = CMakeFiles/Cpp_Algorithm.dir/BAEKJOON_1009.cpp.o.d
+build CMakeFiles/Cpp_Algorithm.dir/BAEKJOON_2010.cpp.o: CXX_COMPILER__Cpp_Algorithm_Debug /Users/hamtory/Desktop/Algorithm/Cpp_Algorithm/BAEKJOON_2010.cpp || cmake_object_order_depends_target_Cpp_Algorithm
+  DEP_FILE = CMakeFiles/Cpp_Algorithm.dir/BAEKJOON_2010.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
   OBJECT_DIR = CMakeFiles/Cpp_Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/Cpp_Algorithm.dir
@@ -60,7 +60,7 @@ build CMakeFiles/Cpp_Algorithm.dir/BAEKJOON_1009.cpp.o: CXX_COMPILER__Cpp_Algori
 #############################################
 # Link the executable Cpp_Algorithm
 
-build Cpp_Algorithm: CXX_EXECUTABLE_LINKER__Cpp_Algorithm_Debug CMakeFiles/Cpp_Algorithm.dir/BAEKJOON_1009.cpp.o
+build Cpp_Algorithm: CXX_EXECUTABLE_LINKER__Cpp_Algorithm_Debug CMakeFiles/Cpp_Algorithm.dir/BAEKJOON_2010.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/Cpp_Algorithm.dir
   POST_BUILD = :
