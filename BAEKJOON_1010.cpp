@@ -2,20 +2,19 @@
 // Created by HamTory on 2023/03/19.
 //
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
 int main(){
     int n,m;
-    cin >> n >> m;
+    int t;
+    cin >> t;
     long long sum = 1;
-    if(n == 1){
-        cout << m << '\n';
-    } else {
-        for(int i=1; i<=m-n+1; i++) {
-            sum*=i;
+    for(int i=0; i<t; i++){
+        cin >> n >> m;
+        for(int j=0; j<m; j++){
+            sum*=;
         }
-        cout << sum;
+        cout << sum << '\n';
     }
 }
